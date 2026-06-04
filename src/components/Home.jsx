@@ -40,7 +40,7 @@ const Home = () => {
       fontWeight={'thin'}
       color={'whiteAplha.700'}
       mt={'-30'}
-      >Bhag Madarchod</Text>
+      >Bhagta kyu nahi Madarchod</Text>
     </Box>
   )
 }
