@@ -13,7 +13,7 @@ const Header = () => {
         variant={'unstyled'}
         color={'white'}
         >
-            <Link to = '/'>Homie</Link>
+            <Link to = '/'>HomeSickness</Link>
         </Button>
 
 
