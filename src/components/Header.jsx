@@ -13,7 +13,7 @@ const Header = () => {
         variant={'unstyled'}
         color={'white'}
         >
-            <Link to = '/'>Home</Link>
+            <Link to = '/'>Homie</Link>
         </Button>
 
 

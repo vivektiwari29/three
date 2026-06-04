@@ -40,7 +40,7 @@ const Home = () => {
       fontWeight={'thin'}
       color={'whiteAplha.700'}
       mt={'-30'}
-      >XCrypto</Text>
+      >Bhag Madarchod</Text>
     </Box>
   )
 }
