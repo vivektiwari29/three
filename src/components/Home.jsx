@@ -40,7 +40,7 @@ const Home = () => {
       fontWeight={'thin'}
       color={'whiteAplha.700'}
       mt={'-30'}
-      >Bhagta kyu nahi Madarchod</Text>
+      >THIS IS THE FIRST BRANCH</Text>
     </Box>
   )
 }
