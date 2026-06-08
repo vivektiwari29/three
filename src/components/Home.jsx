@@ -40,7 +40,7 @@ const Home = () => {
       fontWeight={'thin'}
       color={'whiteAplha.700'}
       mt={'-30'}
-      >first feature branch</Text>
+      >THIS IS THE FIRST BRANCH</Text>
     </Box>
   )
 }
